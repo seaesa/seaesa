@@ -59,13 +59,9 @@
 <div align='left'>
  
 <a href="https://www.linkedin.com/in/ngoc-hai-11a928307/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 10px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a> 
 <br>
  
-<a href="hairipi100@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  hairipi100-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 10px;" />
-</a> 
+<img src="https://img.shields.io/badge/gmail: hairipi100-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
