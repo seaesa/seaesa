@@ -60,9 +60,9 @@
 <div align='left'>
  
 <a href="https://www.linkedin.com/in/ngoc-hai-11a928307/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a> 
-<br>
+<br style="margin:2px 0;">
  
-<img src="https://img.shields.io/badge/gmail: hairipi100-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: hairipi100-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" />
 </div>
