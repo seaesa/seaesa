@@ -1,13 +1,10 @@
-<div style="display:flex;flex-direction:column;justify-content:center;align-items:center">
-<h3 align="center"><b>Hi , I'm Ngoc Hai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<p align="center" width="40">
-  <img src="https://komarev.com/ghpvc/?username=seaesa&color=ff69b4"><img>
-</p>
-</div>
+
+<h1 align="center"><b>Hi , I'm Ngoc Hai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Front+end+Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=80&lines=I'm+Front+end+Developer">
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -30,8 +27,7 @@
 - **Languages**:
     
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>   
+  
     
 - **Front-End Development**:
 
@@ -42,15 +38,13 @@
    ![ReactJs](https://shields.io/badge/react-blue?logo=reactjs&style=for-the-badge)
    ![TailwindCss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
-<br>
 
 - **Back-End Development**:
 
     ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
     ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-    
-<br>
 
+    
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,15 +58,13 @@
 
 -----
 
-<br>
-
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
  
 <a href="https://www.linkedin.com/in/ngoc-hai-11a928307/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  ngoc-hai-11a928307-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a> 
 <br>
  
