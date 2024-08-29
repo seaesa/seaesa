@@ -1,13 +1,13 @@
-<h1 align="center"><b>Hi , I'm Ngoc Hai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div style="display:flex;justify-content:between">
+<h3 align="center"><b>Hi , I'm Ngoc Hai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+	<p align="end">
+  <img src="https://komarev.com/ghpvc/?username=seaesa&color=ff69b4"><img>
+</p>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Front+end+Developer">
-</p>
-
-<br>
-
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=seaesa&color=ff69b4"><img>
 </p>
 
 <br>
@@ -20,7 +20,7 @@
 
 - A passionate Self-taught Front-end developer
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
