@@ -1,6 +1,6 @@
 
 <h3 align="center"><b>Hi , I'm Ngoc Hai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<p align="start" width="35">
+<p align="center" width="40">
   <img src="https://komarev.com/ghpvc/?username=seaesa&color=ff69b4"><img>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
