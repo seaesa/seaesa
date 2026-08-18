@@ -57,12 +57,12 @@ More experiments across **Python, Java/Spring, Flutter, Vue, C# and C** — [bro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seaesa&show_icons=true&title_color=ef4444&icon_color=22d3ee&text_color=e6edf3&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=seaesa&show_icons=true&title_color=ef4444&icon_color=22d3ee&text_color=e6edf3&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=seaesa&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideNums=e6edf3&sideLabels=9ca3af&dates=9ca3af&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaesa&layout=compact&title_color=ef4444&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=seaesa&layout=compact&title_color=ef4444&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
