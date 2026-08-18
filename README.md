@@ -1,54 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ngoc Hai
-================================================================================================================================
+<h1 align="center">Ngoc Hai</h1>
+<h3 align="center">Software Engineer · Full-Stack &amp; Automation</h3>
 
-Front end Developer
--------------------
-
-a learner
-
-* 🌍  I'm based in Da nang, Viet Nam
-* ✉️  You can contact me at [hairipi100@gmail.com](mailto:hairipi100@gmail.com)
-* 🧠  I'm learning NestJs, NextJs
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1300&color=EF4444&center=true&vCenter=true&width=540&lines=Software+Engineer+%7C+Full-Stack+%26+Automation;Building+full-stack+apps+%26+automation+tools;TypeScript+%26+Python+%7C+Docker+%26+CI%2FCD" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,fastapi,docker,postgres,linux&theme=dark" alt="Core Stack" />
+</p>
 
-### Socials
+Software engineer based in **Da Nang, Vietnam** 🇻🇳. I build full-stack applications and automation tools with **TypeScript** and **Python** — from containerized backends to scheduled workers that talk to real-world APIs. I care about clean architecture, reliable CI/CD, and software that actually runs in production.
 
-<p align="left"> <a href="https://www.facebook.com/oceans.1110" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/seaesa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/oceans.1110" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/22261512/ngoc-hai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+- 🔭 Currently working on **autoposter** — a TikTok → Facebook auto-poster (FastAPI + React + Docker, deployed with Traefik)
+- 🛠️ Exploring **AI-assisted dev tooling** (AI website cloning, Next.js 16 + shadcn/ui)
+- 📈 Experimenting with a **crypto trading bot** in Python
+- ⚡ Always shipping: Docker, CI/CD, and self-hosted services
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📌 Featured Projects
 
-<a href="http://www.github.com/seaesa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=seaesa&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| Project | What it does | Stack |
+|---|---|---|
+| [**autoposter**](https://github.com/seaesa/autoposter) | TikTok → Facebook auto-poster with scheduled workers, daily quotas, and WAF cookie handling | FastAPI · SQLModel · PostgreSQL · React · Docker |
+| [**web-cloner**](https://github.com/seaesa/web-cloner) | AI-powered website cloner that reverse-engineers any site into a modern template | Next.js 16 · React 19 · TypeScript · Tailwind v4 |
+| [**memcoin-trading-bot**](https://github.com/seaesa/memcoin-trading-bot) | Automated trading bot for crypto markets | Python |
+| [**breads-api**](https://github.com/seaesa/breads-api) | Threads.net-style social platform API | TypeScript · Express · MongoDB |
+| [**expense-tracker**](https://github.com/seaesa/expense-tracker) | Personal expense manager for daily budgeting | TypeScript · React |
 
-<a href="https://github.com/seaesa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaesa&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+More experiments across **Python, Java/Spring, Flutter, Vue, C# and C** — [browse all repos](https://github.com/seaesa?tab=repositories).
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,python,java,csharp,dart,html,css,bash&theme=dark)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark)
+
+**Backend & Data**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,postgres,mongodb,mysql,redis&theme=dark)
+
+**DevOps & Tools**
+
+![DevOps](https://skillicons.dev/icons?i=docker,git,githubactions,linux,neovim,vscode,figma&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seaesa&show_icons=true&title_color=ef4444&icon_color=22d3ee&text_color=e6edf3&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=seaesa&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideNums=e6edf3&sideLabels=9ca3af&dates=9ca3af&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaesa&layout=compact&title_color=ef4444&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:hairipi100@gmail.com"><img src="https://img.shields.io/badge/Email-hairipi100%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/seaesa"><img src="https://img.shields.io/badge/GitHub-seaesa-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://stackoverflow.com/users/22261512/ngoc-hai"><img src="https://img.shields.io/badge/Stack%20Overflow-ngoc--hai-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.facebook.com/oceans.1110"><img src="https://img.shields.io/badge/Facebook-oceans.1110-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
