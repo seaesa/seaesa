@@ -38,19 +38,31 @@ More experiments across **Python, Java/Spring, Flutter, Vue, C# and C** — [bro
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=typescript,javascript,python,java,csharp,dart,html,css,bash&theme=dark)
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,python,cs,dart,rust,go,html,css,bash&theme=dark)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,redux,vite&theme=dark)
 
 **Backend & Data**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,postgres,mongodb,mysql,redis&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,postgres,mongodb,mysql,redis,prisma,graphql&theme=dark)
 
 **DevOps & Tools**
 
-![DevOps](https://skillicons.dev/icons?i=docker,git,githubactions,linux,neovim,vscode,figma&theme=dark)
+![DevOps](https://skillicons.dev/icons?i=docker,git,githubactions,linux,neovim,vscode,figma,aws,bun,electron&theme=dark)
+
+**Libraries & Frameworks**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=FFFFFF" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Zod-274754?style=for-the-badge&logo=zod&logoColor=FFFFFF" alt="Zod" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=FFFFFF" alt="Playwright" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=FFFFFF" alt="tRPC" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui" />
+</p>
 
 ---
 
@@ -58,7 +70,7 @@ More experiments across **Python, Java/Spring, Flutter, Vue, C# and C** — [bro
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=seaesa&show_icons=true&title_color=ef4444&icon_color=22d3ee&text_color=e6edf3&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=seaesa&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideNums=e6edf3&sideLabels=9ca3af&dates=9ca3af&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seaesa&bg_color=0d1117&color=ef4444&line=22d3ee&point=e6edf3&hide_border=true" alt="Contribution Activity" />
 </p>
 
 <p align="center">
